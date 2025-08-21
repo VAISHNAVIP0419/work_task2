@@ -1,0 +1,6 @@
+{
+  "services": {
+    "web": "httpd:latest",
+    "db": "postgres:14"
+  }
+}
